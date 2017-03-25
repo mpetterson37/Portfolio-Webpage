@@ -16,3 +16,5 @@ For starters, my page will include the following:
   * Twitter
   * CodePen
   * GitHub
+
+![Wireframe](https://github.com/mpetterson37/Portfolio-Webpage/blob/master/Capstone%20Portfolio.png)
